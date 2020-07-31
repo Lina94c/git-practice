@@ -1,0 +1,3 @@
+Name: Caro
+Age:25
+Favorite color:Yellow
