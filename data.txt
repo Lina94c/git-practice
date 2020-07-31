@@ -1,3 +1,3 @@
-Name: Caro
+Name: Lina
 Age:25
-Favorite color:Yellow
+Favorite color:Blue 
